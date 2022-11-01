@@ -1,0 +1,2 @@
+# ohtu-palautusrepositorio
+Palautusrepositorio ohjelmistotuotantokurssia varten
